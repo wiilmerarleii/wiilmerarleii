@@ -1,57 +1,39 @@
-<!-- Metaetiquetas SEO para GitHub y web scrapers -->
-<!-- <meta name="description" content="Perfil de GitHub de wiilmerarleii. Desarrollador de Software, proyectos, métricas y contribuciones de código abierto."> -->
-<!-- <meta name="keywords" content="developer, software engineer, github, wiilmerarleii, open source"> -->
+<!--
+===========================================================
+    PERFIL PROFESIONAL DE WIILMER ARLEII VARGAS
+    Generado automáticamente con GitHub Actions
+    Última actualización: {timestamp}
+===========================================================
+-->
 
-<div align="center">
-  <h1>👋 ¡Hola! Soy Wiilmerarleii</h1>
-  <p><strong>Transformando café en código | Apasionado por la tecnología y el aprendizaje continuo</strong></p>
+<!-- BANNER ASCII -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wiilmer%20Arleii&fontSize=80&fontAlignY=35&animation=fadeIn&desc=FullStack%20Developer%20%7C%20DevOps%20%7C%20Tech%20Evangelist&descAlignY=55&descAlign=50"/>
+</p>
 
+<!-- INSIGNIAS DINÁMICAS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wiilmerarleii&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="visitas" />
+  <img src="https://img.shields.io/github/followers/wiilmerarleii?label=FOLLOWERS&style=for-the-badge&logo=github&color=0a0a0a" alt="seguidores" />
+  <img src="https://img.shields.io/github/stars/wiilmerarleii?label=STARS&style=for-the-badge&logo=github&color=yellow" alt="estrellas" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=statuspal" alt="estado" />
+</p>
 
-<!-- QUOTE_START -->
-> **💬 Frase del día:** "El código es poesía escrita para máquinas." - DevRel
-<!-- QUOTE_END -->
-</div>
+<!-- FRASE MOTIVACIONAL DINÁMICA generada por GitHub Actions -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder&bgColor=%230D1117&qColor=%23F0F0F0&aColor=%233491eb" alt="Joke of the day" width="80%"/>
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🧑‍💻 Sobre mí
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,python,js,ts,react,nodejs,docker,aws,md&perline=12" alt="Mis Skills" />
-  </a>
-</div>
-
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías | Estado |
-| :--- | :--- | :--- | :--- |
-| **[learning-python](#)** | Colección de scripts y algoritmos aprendiendo Python desde cero. | `Python` | 🟢 Activo |
-| **[api-playground](#)** | APIs de prueba construidas para entender REST y GraphQL. | `Node.js`, `Express` | 🟡 En pausa |
-| **[portfolio-v1](#)** | Mi primera web personal construida con tecnologías modernas. | `React`, `CSS` | 🟢 Activo |
-
-## 📊 Estadísticas de GitHub
-
-> *Nota: Estas métricas se actualizan dinámicamente y se adaptan a tu tema (claro/oscuro).*
-
-<div align="center">
-  <!-- GitHub Stats y Lenguajes (Anurag Hazra) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiilmerarleii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiilmerarleii&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-<br>
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiilmerarleii&theme=radical" alt="Racha de contribuciones" />
-</div>
-
-## 📈 Análisis de Actividad Generado por GitHub Actions
-
-<div align="center">
-  <!-- Esta imagen se generará automáticamente por nuestra GitHub Action -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
-    <img alt="Métricas avanzadas de GitHub" src="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
-  </picture>
-</div>
+```javascript
+const wiilmer = {
+  código: ["JavaScript", "TypeScript", "Python", "Go", "Java"],
+  frameworks: ["React", "Node.js", "Next.js", "Django", "Spring Boot"],
+  herramientas: ["Docker", "Kubernetes", "AWS", "Terraform", "GitHub Actions"],
+  aprendizaje: ["Rust", "WebAssembly", "Machine Learning"],
+  objetivo: "Construir tecnología que impacte a millones de personas",
+  hobbies: ["Ajedrez", "Open Source", "Tech Writing", "Café ☕"]
+};
