@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Metaetiquetas SEO para GitHub y web scrapers -->
+<!-- <meta name="description" content="Perfil de GitHub de wiilmerarleii. Desarrollador de Software, proyectos, métricas y contribuciones de código abierto."> -->
+<!-- <meta name="keywords" content="developer, software engineer, github, wiilmerarleii, open source"> -->
 
-<!--
-**wiilmerarleii/wiilmerarleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>👋 ¡Hola! Soy Wiilmerarleii</h1>
+  <p><strong>Transformando café en código | Apasionado por la tecnología y el aprendizaje continuo</strong></p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wiilmerarleii&label=Visitas al perfil&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+    <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  </p>
 
-Here are some ideas to get you started:
+<!-- QUOTE_START -->
+> **💬 Frase del día:** "El código es poesía escrita para máquinas." - DevRel
+<!-- QUOTE_END -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,python,js,ts,react,nodejs,docker,aws,md&perline=12" alt="Mis Skills" />
+  </a>
+</div>
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Estado |
+| :--- | :--- | :--- | :--- |
+| **[learning-python](#)** | Colección de scripts y algoritmos aprendiendo Python desde cero. | `Python` | 🟢 Activo |
+| **[api-playground](#)** | APIs de prueba construidas para entender REST y GraphQL. | `Node.js`, `Express` | 🟡 En pausa |
+| **[portfolio-v1](#)** | Mi primera web personal construida con tecnologías modernas. | `React`, `CSS` | 🟢 Activo |
+
+## 📊 Estadísticas de GitHub
+
+> *Nota: Estas métricas se actualizan dinámicamente y se adaptan a tu tema (claro/oscuro).*
+
+<div align="center">
+  <!-- GitHub Stats y Lenguajes (Anurag Hazra) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiilmerarleii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiilmerarleii&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiilmerarleii&theme=radical" alt="Racha de contribuciones" />
+</div>
+
+## 📈 Análisis de Actividad Generado por GitHub Actions
+
+<div align="center">
+  <!-- Esta imagen se generará automáticamente por nuestra GitHub Action -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
+    <img alt="Métricas avanzadas de GitHub" src="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
+  </picture>
+</div>
