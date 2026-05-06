@@ -1,62 +1,59 @@
-<!-- Metaetiquetas SEO para GitHub y web scrapers -->
-<!-- <meta name="description" content="Perfil de GitHub de wiilmerarleii. Desarrollador de Software, proyectos, métricas y contribuciones de código abierto."> -->
-<!-- <meta name="keywords" content="developer, software engineer, github, wiilmerarleii, open source"> -->
-
+<!-- wiilmerarleii/README.md -->
 <div align="center">
-  <h1>👋 ¡Hola! Soy Wiilmerarleii</h1>
-  <p><strong>Transformando café en código | Apasionado por la tecnología y el aprendizaje continuo</strong></p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=wiilmerarleii&label=Visitas al perfil&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-    <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  </p>
 
-<!-- QUOTE_START -->
-> **💬 Frase del día:** "El código es poesía escrita para máquinas." - DevRel
-<!-- QUOTE_END -->
-</div>
+# ¡Hola! Soy Wiilmer Arleii 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=wiilmerarleii&color=0e75b6&style=flat&label=Visitas) 
+![GitHub Followers](https://img.shields.io/github/followers/wiilmerarleii?color=0e75b6&style=flat)
+![GitHub Repos](https://img.shields.io/github/repos/wiilmerarleii?color=0e75b6&style=flat)
+
+**Desarrollador apasionado | Construyendo el futuro un commit a la vez**
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,python,js,ts,react,nodejs,docker,aws,md&perline=12" alt="Mis Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,kubernetes,aws,gcp,git,github,linux&perline=12" />
   </a>
-</div>
+</p>
 
-## 🚀 Proyectos Destacados
+### 🔥 Estadísticas y Actividad
 
-| Proyecto | Descripción | Tecnologías | Estado |
-| :--- | :--- | :--- | :--- |
-| **[learning-python](#)** | Colección de scripts y algoritmos aprendiendo Python desde cero. | `Python` | 🟢 Activo |
-| **[api-playground](#)** | APIs de prueba construidas para entender REST y GraphQL. | `Node.js`, `Express` | 🟡 En pausa |
-| **[portfolio-v1](#)** | Mi primera web personal construida con tecnologías modernas. | `React`, `CSS` | 🟢 Activo |
+![GitHub Streak](https://streak-stats.demolab.com?user=wiilmerarleii&theme=dark&hide_border=true&border_radius=8)
 
-## 📊 Estadísticas de GitHub
+<!-- Métricas Lowlighter (se actualizará automáticamente) -->
+![Metrics](https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg)
 
-> *Nota: Estas métricas se actualizan dinámicamente y se adaptan a tu tema (claro/oscuro).*
+### 🚀 Proyectos Destacados
 
-<div align="center">
-  <!-- GitHub Stats y Lenguajes (Anurag Hazra) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiilmerarleii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiilmerarleii&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-<br>
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiilmerarleii&theme=radical" alt="Racha de contribuciones" />
-</div>
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| `portfolio-v1` | Mi portafolio personal | Next.js + Tailwind | [Ver →](#) |
+| `api-playground` | Colección de APIs y microservicios | Node.js + Express | [Ver →](#) |
+| `learning-python` | Proyectos y ejercicios de Python | Python + FastAPI | [Ver →](#) |
+| `dotfiles` | Mi configuración de entorno | Bash + Neovim | [Ver →](#) |
+| `awesome-list` | Curated list de recursos | Markdown | [Ver →](#) |
 
-## 📈 Análisis de Actividad Generado por GitHub Actions
+**Próximamente más proyectos...** ¡Mantente atento!
 
-<div align="center">
-  <!-- Esta imagen se generará automáticamente por nuestra GitHub Action -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
-    <img alt="Métricas avanzadas de GitHub" src="https://raw.githubusercontent.com/wiilmerarleii/wiilmerarleii/main/github-metrics.svg">
-  </picture>
+### 📊 Métricas Dinámicas
+
+- **Lenguajes más usados** (actualizado diariamente)
+- **Gráfico de actividad 3D** (próximamente)
+- **Racha actual**: ¡No dejes que se rompa!
+
+---
+
+### 🌐 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
+
+**"El único código malo es el que no se escribe."** — Wiilmer Arleii
+
+*Última actualización: hoy (automático vía GitHub Actions)*
+
 </div>
