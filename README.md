@@ -80,6 +80,11 @@ Porque aprender en público acelera el proceso. Cada commit, aunque sea pequeño
 
 ---
 
+---
+
+## 📊 Mi Actividad en GitHub
+![Metrics](/github-metrics.svg)
+
 <div align="center">
 
 *🌱 Perfil en construcción — vuelve pronto para ver el progreso*
