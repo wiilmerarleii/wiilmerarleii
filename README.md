@@ -31,10 +31,7 @@ Mi objetivo a corto plazo:
 - 📌 Conseguir mi primera estrella en un repositorio público  
 
 📫 Cómo contactarme:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wiilmerarleii)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/wiilmerarleii)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://wilmerarleii.dev) *(próximamente)*  
-*(Reemplaza los enlaces con tus perfiles reales)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://wilmerarleii.dev) *(próximamente)*
 
 ---
 
