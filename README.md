@@ -5,12 +5,7 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Wiilmerarleii</h1>
   <p><strong>Transformando café en código | Apasionado por la tecnología y el aprendizaje continuo</strong></p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=wiilmerarleii&label=Visitas al perfil&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://twitter.com/#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-    <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  </p>
+
 
 <!-- QUOTE_START -->
 > **💬 Frase del día:** "El código es poesía escrita para máquinas." - DevRel
