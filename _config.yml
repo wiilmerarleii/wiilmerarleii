@@ -1,0 +1,36 @@
+# _config.yml
+# Archivo de configuración del repositorio de perfil.
+# Aunque GitHub Pages no está activado, ayuda a herramientas
+# de documentación como Jekyll o MkDocs a entender la estructura.
+
+title: "Wilmer — Perfil de Desarrollador"
+description: "Aprendiendo desarrollo con Python y explorando la automatización. Enfocado en construir soluciones eficientes."
+author: "Wilmer"
+github_username: wiilmerarleii
+
+# URLs de redes sociales (reemplaza con las tuyas)
+linkedin_username: wilmerzlizarazo
+
+# Tema
+theme: minima
+markdown: GFM
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclusiones del build
+exclude:
+  - scripts/
+  - "*.sh"
+  - ".github/"
+  - "node_modules/"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+# Metadatos SEO
+lang: "es"
+timezone: "Europa/Madrid"  # ← Cambia a tu zona horaria
