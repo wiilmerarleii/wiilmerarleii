@@ -37,3 +37,4 @@ const wiilmer = {
   objetivo: "Construir tecnología que impacte a millones de personas",
   hobbies: ["Ajedrez", "Open Source", "Tech Writing", "Café ☕"]
 };
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3491EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;DevOps+Enthusiast;Always+learning+new+techs" alt="Typing SVG" /> </p>
