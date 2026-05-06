@@ -1,16 +1,16 @@
 <!-- SEO Meta -->
 <!-- Author: Wilmer Arley | Python Learner · Beginner Developer -->
 <!-- Status: Aprendiendo a programar desde cero con Python -->
-<!-- Location: [Tu ciudad, País] -->
+
 
 <div align="center">
 
 # 👋 Hola, soy Wilmer Arley
 
-### Aprendiendo a programar — empezando con Python 🐍
+### Aspirante a Desarrollador de Python 🐍
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wiilmerarleii&color=blueviolet&style=for-the-badge&label=VISITAS)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilmerzlizarazo)
 </div>
 
 ---
@@ -23,7 +23,8 @@ wilmer = {
     "estado":      "Aprendiendo Python desde cero 🐣",
     "motivación":  "Quiero construir cosas con código",
     "nivel":       "Principiante",
-    "fun_fact":    "Antes de saber qué era un IDE, ya quería ser dev"
+    "ubicación":   "Madrid, ES",
+	"fun_fact":    "Antes de saber qué era un IDE, ya quería ser dev"
 }
 ```
 
@@ -35,7 +36,7 @@ wilmer = {
 
 <div align="center">
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python,git,github,vscode,windows,pycharm&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -94,9 +95,12 @@ wilmer = {
 
 ## 📚 Recursos que me están ayudando
 
-- 🎥 [Nombre del curso/YouTube que estás siguiendo]
-- 📖 [Libro o documentación que estás leyendo]
-- 💬 [Comunidad o foro donde aprendes — ej: Reddit r/learnpython]
+- 🎥 [MoureDev (Brais Moure)](https://www.youtube.com/@mouredev) - Cursos de Python desde cero y retos de lógica.
+- 📺 [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas) - Excelente para entender las bases más técnicas de Python.
+- 💬 **Comunidades:** 
+	- [Discord de MoureDev](https://mouredev.com/discord) (Comunidad muy activa para principiantes).
+	- [Reddit r/learnpython](https://www.reddit.com/r/learnpython/) (Perfecto para ver dudas comunes).
+	- [Stack Overflow en español](https://es.stackoverflow.com/).
 
 ---
 
