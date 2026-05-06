@@ -30,61 +30,11 @@ Mi objetivo a corto plazo:
 - ⭐ Publicar mi primer sitio web con Flask/Django  
 - 📌 Conseguir mi primera estrella en un repositorio público  
 
-📫 Cómo contactarme:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://wilmerarleii.dev) *(próximamente)*
-
----
-
-### 🛠️ Herramientas y tecnologías que estoy aprendiendo
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,git,github,vscode,markdown,html,css,linux,bash&perline=5" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📌 Mis primeros proyectos
-
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| [python-101](https://github.com/wiilmerarleii/python-101) | Ejercicios de lógica, tipos de datos, bucles y funciones. | 🟢 Empezado |
-| [mini-proyectos-python](https://github.com/wiilmerarleii/mini-proyectos-python) | Scripts útiles: calculadora, generador de contraseñas, scraping simple. | 🟡 En desarrollo |
-| [learning-journal](https://github.com/wiilmerarleii/learning-journal) | Diario público de aprendizaje: qué he estudiado cada día. | ✍️ Diario activo |
-| [dotfiles](https://github.com/wiilmerarleii/dotfiles) | Configuración de mi terminal y entorno de desarrollo. | 🛠️ Siempre mejorando |
-| [python-web-first-steps](https://github.com/wiilmerarleii/python-web-first-steps) | Aplicación web sencilla con Flask (futuro). | ⏳ Planeado |
-
-> ⭐ Mi primera meta: **1 estrella en `python-101`**. ¡Todo empieza con una!
-
----
-
-### 📊 Métricas y actividad (en tiempo real)
-
-<!-- GitHub Stats básicas (se actualizan solas) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiilmerarleii&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiilmerarleii&layout=compact&theme=calm&hide_border=true&langs_count=6" alt="top langs" height="180em"/>
-</div>
-
-<!-- Racha de contribuciones -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiilmerarleii&theme=calm&hide_border=true" alt="streak" />
-</div>
-
-<!-- Métricas generadas automáticamente cada día (necesita el workflow) -->
-<div align="center">
-  <img src="/github-metrics.svg" alt="metrics" width="100%"/>
-</div>
-
 ---
 
 ### ✍️ Reflexión del día
 
-> *"No te preocupes si no funciona bien a la primera. La programación se trata de intentar, fallar y volver a intentar."*  
-> 📅 *Frase actualizada diariamente gracias a GitHub Actions.*
+> *"No te preocupes si no funciona bien a la primera. La programación se trata de intentar, fallar y volver a intentar."* 
 
 ---
 
