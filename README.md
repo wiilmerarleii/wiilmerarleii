@@ -28,7 +28,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wiilmerarleii&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
-![GitHub followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https://api.github.com/users/wiilmerarleii)
+![GitHub followers](https://img.shields.io/github/followers/wiilmerarleii?style=for-the-badge&color=0e75b6&label=SEGUIDORES)
 ![GitHub User's stars](https://img.shields.io/github/stars/wiilmerarleii?style=for-the-badge&color=ffd700&label=ESTRELLAS)
 
 </div>
